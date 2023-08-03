@@ -1,6 +1,6 @@
 # Description
 
-These files are from troubleshooting a customer issue where programmatic authentication using the OIDC authentication method was failing. 
+These files are from troubleshooting an issue where programmatic authentication using the OIDC authentication method was failing. 
 
 #### The function I used to reproduce this was as follows
 ```
