@@ -1,0 +1,51 @@
+{
+    "time": "2023-08-01T10:43:30.485497Z",
+    "type": "request",
+    "auth": {
+      "policy_results": {
+        "allowed": true
+      },
+      "token_type": "default"
+    },
+    "request": {
+      "id": "d2a841fe-ae0c-d5ca-d344-c14d59879f72",
+      "operation": "update",
+      "mount_type": "oidc",
+      "mount_accessor": "auth_oidc_9a0a8691",
+      "namespace": {
+        "id": "root"
+      },
+      "path": "auth/oidc/login",
+      "remote_address": "127.0.0.1",
+      "remote_port": 54750
+    }
+  }
+  {
+    "time": "2023-08-01T10:43:30.485586Z",
+    "type": "response",
+    "auth": {
+      "policy_results": {
+        "allowed": true
+      },
+      "token_type": "default"
+    },
+    "request": {
+      "id": "d2a841fe-ae0c-d5ca-d344-c14d59879f72",
+      "operation": "update",
+      "mount_type": "oidc",
+      "mount_accessor": "auth_oidc_9a0a8691",
+      "namespace": {
+        "id": "root"
+      },
+      "path": "auth/oidc/login",
+      "remote_address": "127.0.0.1",
+      "remote_port": 54750
+    },
+    "response": {
+      "mount_type": "oidc",
+      "mount_accessor": "auth_oidc_9a0a8691",
+      "data": {
+        "error": "role with oidc role_type is not allowed"
+      }
+    }
+  }

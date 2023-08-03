@@ -1,0 +1,6 @@
+"path": "auth/oidc/oidc/auth_url",
+"data": {
+"client_nonce": "DYDLRKJPGKlZKXizZEpf",
+"redirect_uri": "http://localhost:8250/oidc/callback",
+"role": "reader"
+}
