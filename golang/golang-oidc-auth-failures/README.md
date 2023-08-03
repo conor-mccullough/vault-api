@@ -36,7 +36,7 @@ exit status 1
 
 ### Reproduction details and results
 
-Compaping an OIDC auth success via the command line (which is essentially just a wrapper around the API) with a failed attempt by the Golang script highlighted key differences in the requests being made.
+Comparing an OIDC auth success via the command line (which is essentially just a wrapper around the API) with a failed attempt by the Golang script highlighted key differences in the requests being made.
 
 Ultimately the `path` being used by the customer was incorrect.
 
